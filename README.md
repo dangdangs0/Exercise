@@ -1,6 +1,6 @@
 # Exercise
 운동 관리 앱
-
+https://velog.io/@dangdang/Android-운동-관리-앱
 
 ![image](https://user-images.githubusercontent.com/52357071/234149761-ca5fef82-1a91-4442-a208-a5cd1844bee3.png)
 ![image](https://user-images.githubusercontent.com/52357071/234149804-18709ac6-192d-40df-97a1-bab657445b0e.png)
